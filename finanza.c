@@ -1,7 +1,6 @@
-  <!DOCTYPE html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html>
+  <html>
+  </html>
     <meta charset="utf-8">
     <title>Finanza - Financial Services Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -772,5 +771,6 @@
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
+
 
 </html>
